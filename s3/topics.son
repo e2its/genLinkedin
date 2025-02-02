@@ -1,0 +1,24 @@
+{
+    "Innovation Trigger": {
+        "Topics" : ["Digital Twin of a Customer", "Multiagent System", "AI supercomputing", "Autonomous agent",
+        "Federated Machine Learning","Disinformation Security"],
+        "Weight" : "25%"
+    },
+    "Peak of Inflated Expectations": {
+        "Topics": ["GitOps", "Machine Customers", "AI-Augmented Software Engineering", "Superapps", "WebAssembly",
+        "Cloud Native". "AI-Augmented software Engineering", "Generative AI"],
+        "Weight" : "75%"
+    },
+    "Trough of Disillusionment": {
+        "Topics": [],
+        "Weight" : "0%"
+    },
+    "Slope of Enlightenment": {
+        "Topics": [],
+        "Weight" : "0%"
+    },
+    "Plateau of Productivity": {
+        "Topics": [],
+        "Weight" : "0%"
+    }
+}
