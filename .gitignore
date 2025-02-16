@@ -1,2 +1,6 @@
 .env
 Vademecum
+**/logs
+.log
+**/Vademecum
+.pdf
