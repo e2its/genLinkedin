@@ -1,1 +1,12 @@
+#Requires Python 3.12.8
+
 python-dotenv==1.0.1
+boto3==1.34.154
+botocore==1.34.154
+langchain==0.3.19
+langchain-community==0.3.17
+langchain-experimental==0.3.4
+langgraph==0.2.73
+pandas==2.2.3
+numpy==2.2.3
+streamlit==1.42.1
