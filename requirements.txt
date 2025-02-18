@@ -10,3 +10,4 @@ langgraph==0.2.73
 pandas==2.2.3
 numpy==2.2.3
 streamlit==1.42.1
+pylint==3.3.4
